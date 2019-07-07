@@ -1,6 +1,6 @@
 # stopwatch-for-slack
 
-Stopwatch⏲️for Slack
+Stopwatch⏲️for Slack.
 
 This app is optimised for using with Heroku + Postgres.
 
