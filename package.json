@@ -1,0 +1,16 @@
+{
+  "name": "stopwatch-slack",
+  "version": "1.0.0",
+  "description": "Stopwatch slack app for Progate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server.development"
+  },
+  "author": "Yuta Tsurusaki",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "pg": "^7.11.0"
+  }
+}
