@@ -35,7 +35,7 @@ app.post(process.env.URL, authentication(), async (req, res) => {
         });
       } catch (err) {
         res.json({
-          text: "Application Error! Please Contact @Yuta_Tsurusaki"
+          text: "Application Error! Please Contact the Author."
         });
       }
       break;
